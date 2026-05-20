@@ -12,7 +12,7 @@ A modern and stylish digital business card website built as part of the freeCode
 * Customized hyperlinks with removed underlines (`text-decoration: none`).
 * Fully responsive and viewable across modern web browsers.
 
-   [Click here to run the prroject live on GitHub Pages](https://josuevasquez2305.github.io/Business-Card-FCC/)
+   [Click here to run the project live on GitHub Pages](https://josuevasquez2305.github.io/Business-Card-FCC/)
 
 ## 🛠️ Installation & Local Setup
 To run this project locally, follow these steps:
